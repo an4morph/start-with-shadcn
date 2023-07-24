@@ -9,5 +9,5 @@ This is simple template for starting new projects with these libs:
 - Shadcn
 
 Based on Vite
----
+
 Ideal for pet project and quick start for new ideas
